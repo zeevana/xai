@@ -9,7 +9,7 @@ Jangan lupa import private key pada **.env** dan setting sesuai kebutuhan. Setii
 1. **Impor File**
    Untuk mengunduh repositori, jalankan perintah berikut:
    ```bash
-   git clone https://github.com/zeevana/zxer.git
+   git clone https://github.com/zeevana/xai.git
    
 2. **Navigasi ke Direktori**
    Masuk ke dalam direktori proyek:
